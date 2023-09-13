@@ -1,2 +1,1 @@
-# DodgingCube
- 3D
+use arrow keys to move around
